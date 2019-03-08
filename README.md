@@ -17,7 +17,7 @@ Flutter plugin for getting accurate locations on the Android & iOS devices.
 
  ```dart
 
-
+    // Get current latitude, longitude
     Future<void> _getLocation() async {
       Map<dynamic, dynamic> locationMap;
 
