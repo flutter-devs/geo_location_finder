@@ -4,7 +4,7 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
 
-[![Pub](https://img.shields.io/badge/Pub-1.0.6-orange.svg?style=flat-square)](https://pub.dartlang.org/packages/geo_location_finder)
+[![Pub](https://img.shields.io/badge/Pub-1.0.7-orange.svg?style=flat-square)](https://pub.dartlang.org/packages/geo_location_finder)
 
 
 # flutter_location_plugin

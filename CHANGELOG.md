@@ -1,3 +1,7 @@
+## 1.0.7
+
+* Updated CHANGELOG.md
+
 ## 1.0.6
 
 * Updated CHANGELOG.md
