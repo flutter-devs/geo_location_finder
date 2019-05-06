@@ -193,8 +193,6 @@ public class FlutterLocationPlugin implements MethodCallHandler, PluginRegistry.
             } else {
                 returnErrorStatus("Please enable GPS");
             }
-        } else {
-            returnErrorStatus("Please enable GPS");
         }
         return false;
     }
