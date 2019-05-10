@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/flutter_location_plugin_example.iml" filepath="$PROJECT_DIR$/flutter_location_plugin_example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flutter_location_plugin_example_android.iml" filepath="$PROJECT_DIR$/flutter_location_plugin_example_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geo_location_finder_example.iml" filepath="$PROJECT_DIR$/geo_location_finder_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/geo_location_finder_example_android.iml" filepath="$PROJECT_DIR$/android/geo_location_finder_example_android.iml" />
     </modules>
   </component>
 </project>

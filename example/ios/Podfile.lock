@@ -1,22 +1,22 @@
 PODS:
   - Flutter (1.0.0)
-  - flutter_location_plugin (0.0.1):
+  - geo_location_finder (1.0.8):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `.symlinks/flutter/ios`)
-  - flutter_location_plugin (from `.symlinks/plugins/flutter_location_plugin/ios`)
+  - geo_location_finder (from `.symlinks/plugins/geo_location_finder/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: ".symlinks/flutter/ios"
-  flutter_location_plugin:
-    :path: ".symlinks/plugins/flutter_location_plugin/ios"
+  geo_location_finder:
+    :path: ".symlinks/plugins/geo_location_finder/ios"
 
 SPEC CHECKSUMS:
   Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
-  flutter_location_plugin: 41560bdb4257656e2fee97ca3d691a253609fbd8
+  geo_location_finder: 2b8bc9a12096629dbb7ce4d8060c0f5637d258fc
 
-PODFILE CHECKSUM: 1e5af4103afd21ca5ead147d7b81d06f494f51a2
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
 
 COCOAPODS: 1.6.0.beta.2

@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 
 class GeoLocation {
   static const MethodChannel _channel =
-      const MethodChannel('github.com/geo_location_finder');
+  const MethodChannel('geo_location_finder');
 
   /*
   *  Method :- getLocation

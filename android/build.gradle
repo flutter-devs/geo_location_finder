@@ -1,4 +1,4 @@
-group 'com.successive.adhoc.flutterlocationplugin'
+group 'com.aeologic.adhoc.geo_location_finder'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -8,8 +8,7 @@ buildscript {
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.1.2'
-
+        classpath 'com.android.tools.build:gradle:3.2.1'
     }
 }
 
@@ -23,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 28
 
     defaultConfig {
         minSdkVersion 16

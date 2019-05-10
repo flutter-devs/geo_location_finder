@@ -4,10 +4,10 @@ For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
 
-[![Pub](https://img.shields.io/badge/Pub-1.0.7-orange.svg?style=flat-square)](https://pub.dartlang.org/packages/geo_location_finder)
+[![Pub](https://img.shields.io/badge/Pub-1.0.8-orange.svg?style=flat-square)](https://pub.dartlang.org/packages/geo_location_finder)
 
 
-# flutter_location_plugin
+# geo_location_finder
 
 Flutter plugin for getting accurate locations on the Android & iOS devices.
 
