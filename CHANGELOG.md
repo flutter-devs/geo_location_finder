@@ -1,5 +1,6 @@
 ## 1.0.8
 
+* iOS Swift code updated
 * Updated CHANGELOG.md
 
 ## 1.0.7

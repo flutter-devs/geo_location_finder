@@ -7,10 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="490ba627-5ce0-402f-9442-02f19f4b188c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/example/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/geo_location_finder/test/geo_location_finder_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/geo_location_finder.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/geo_location_finder.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/geo_location_finder_test.dart" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,51 +30,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-477730585">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="md" value="3" />
-          <entry key="yaml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="3" />
-          <entry key="YAML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="md" value="38" />
-          <entry key="yaml" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="38" />
-          <entry key="YAML" value="16" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="187">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -79,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
+            <state relative-caret-position="34">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -88,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
+            <state relative-caret-position="1428">
               <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="4" />
             </state>
           </provider>
@@ -104,35 +78,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../flutter_test_plugin/example/android" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pubspec.yaml" />
-        <option value="$PROJECT_DIR$/CHANGELOG.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/CHANGELOG.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="357" />
     <option name="y" value="23" />
     <option name="width" value="1064" />
     <option name="height" value="972" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -145,12 +113,6 @@
               <item name="geo_location_finder" type="b2602c69:ProjectViewProjectNode" />
               <item name="geo_location_finder" type="462c0819:PsiDirectoryNode" />
               <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geo_location_finder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geo_location_finder" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="geo_location_finder" type="b2602c69:ProjectViewProjectNode" />
@@ -241,10 +203,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="357" y="23" width="1064" height="972" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="971" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951077" />
+      <window_info id="Resources Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15567766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -259,7 +222,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30795455" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19795223" />
       <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="RNConsole" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -281,9 +244,6 @@
       <window_info anchor="right" id="Codota" order="10" />
       <window_info anchor="right" id="Fabric" order="11" />
     </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/geo_location_finder.dart">
@@ -312,24 +272,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/example/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
+        <state relative-caret-position="1428">
           <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
